@@ -105,7 +105,7 @@ body {
 .navbar .menu-items {
   padding-top: 120px;
   background-color:rgb(77, 77, 77) ;
-  height: 200vh;
+  
   width: 100%;
   transform: translate(-150%);
   display: flex;
